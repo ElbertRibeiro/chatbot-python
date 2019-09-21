@@ -1,9 +1,8 @@
 # Chat-bot
-Chat-bot simples, feito em Python.
+Simple chat bot made in Python.
 
-Para rodar o programa basta ter o Python(3.7) instalado na sua máquina.
+To run or program just have Python (3.7) installed on your machine.
+NOTE: Whatever error, report here.
 
-OBS: Qual quer erro, reporte aqui.
-
-Email: elbertprofissional@gmail.com
+Email: elbertprofissional@gmail.com 
 Linkedin: https://www.linkedin.com/in/elbert-ribeiro-02546b16a
