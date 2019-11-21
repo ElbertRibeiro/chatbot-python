@@ -1,6 +1,5 @@
-from chatterbot.trainers import ListTrainer
 from chatterbot import ChatBot
-
+from chatterbot.trainers import ListTrainer
 
 bot = ChatBot('TW Chat Bot')
 
