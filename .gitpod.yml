@@ -2,3 +2,4 @@ image:
   file: .gitpod.Dockerfile
 tasks:
   - init: pip install chatterbot
+    command: clear
