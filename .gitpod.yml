@@ -1,4 +1,4 @@
 image:
   file: .gitpod.Dockerfile
 tasks:
-  - init: npm pip install chatterbot
+  - init: pip install chatterbot
