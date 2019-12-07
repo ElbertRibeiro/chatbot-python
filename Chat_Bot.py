@@ -1,10 +1,9 @@
-from chatterbot.trainers import ListTrainer
 from chatterbot import ChatBot
-
+from chatterbot.trainers import ListTrainer
 
 bot = ChatBot('TW Chat Bot')
 
-conversa = ['Oi', 'Olá', 'Tudo bem?', 'Tudo ótimo', 'Você gosta de programar?', 'Sim, eu programo em Python']
+conversa = ['Oi', 'Olá', 'Tudo bem?', 'Tudo ótimo!!!', 'Você gosta de programar?', 'Sim, eu programo em Python']
 
 bot.set_trainer(ListTrainer)
 bot.train(conversa)
