@@ -1,6 +1,0 @@
-image:
-  file: .gitpod.Dockerfile
-tasks:
-  - init: pip install chatterbot
-  - init: pip install selenium
-    command: clear
